@@ -21,7 +21,7 @@ Tenho 20 anos, e sou técnico em Informática para Internet pelo IFPE formado em
 
 ## Stats
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&exclude_repo=portfolio-tcb,bivar.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronny-souza&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronny-souza&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Contact Me
 
