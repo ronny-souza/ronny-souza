@@ -19,6 +19,10 @@ Tenho 20 anos, e sou técnico em Informática para Internet pelo IFPE formado em
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## Stats
+
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&exclude_repo=portfolio-tcb,bivar.github.io&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronny-souza&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+
 ## Contact Me
 
 - <a href="https://www.linkedin.com/in/ronyeri-marinho/">Linkedin</a>
