@@ -1,7 +1,7 @@
 ##  <a href="https://www.linkedin.com/in/ronyeri-marinho/">Ronyeri Marinho</a>
 
 ## About Me
-Tenho 20 anos, e sou técnico em Informática para Internet pelo IFPE formado em 2019. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas também pelo IFPE e sou estagiário em uma empresa de desenvolvimento de software, a Ustore. Tenho uma paixão por Design de Interfaces, que me levou a cursar UX/UI na Udemy para me aperfeiçoar na área.
+Tenho 21 anos, e sou técnico em Informática para Internet pelo IFPE formado em 2019. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas também pelo IFPE e sou estagiário em uma empresa de desenvolvimento de software, a Ustore. Tenho uma paixão por Design de Interfaces, que me levou a cursar UX/UI na Udemy para me aperfeiçoar na área.
 
 ## Technologies
 
