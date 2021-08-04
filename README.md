@@ -1,29 +1,23 @@
-##  <a href="https://www.linkedin.com/in/ronyeri-marinho/">Ronyeri Marinho</a>
+##  <a href="https://www.linkedin.com/in/ronyeri-marinho/">Olá! Eu sou Ronyeri Marinho.</a>
 
-## About Me
-Tenho 21 anos, e sou técnico em Informática para Internet pelo IFPE formado em 2019. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas também pelo IFPE e sou estagiário em uma empresa de desenvolvimento de software, a Ustore. Tenho uma paixão por Design de Interfaces, que me levou a cursar UX/UI na Udemy para me aperfeiçoar na área.
+ <div>
+  <a href="https://github.com/ronny-souza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronny-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+</div>
 
-## Technologies
-
-- Front-End: HTML, CSS, JS e Bootstrap.
-- Back-End: Java, Spring, PHP, MySQL.
-- Conhecimentos em UX/UI.
-
-#### Languages and Tools
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-## Stats
-
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&show_icons=true&hide=html,teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronny-souza&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-
-## Contact Me
-
-- <a href="https://www.linkedin.com/in/ronyeri-marinho/">Linkedin</a>
-- <a href="mailto:souzaronny775@gmail.com">E-mail</a>
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/ronyeri-marinho/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:souzaronny775@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  </div>
