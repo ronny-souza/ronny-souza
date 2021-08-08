@@ -10,7 +10,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="AngularJS" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -20,9 +20,18 @@
   ##
  
  <div>
-  <h3><img align="center" alt="Google Cloud" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"> Meu Trabalho</h3>
+  <h3>Meu Trabalho</h3>
   
   <p>Trabalho como desenvolvedor de aplicações voltadas para serviços de nuvem e integração de projetos com nuvens como: IBM Cloud, Huawei Cloud, Google Cloud, AWS, e entre outras.</p>
+ </div>
+ 
+  <div>
+  <h3>Meus Estudos</h3>
+  
+  <p>Tenho estudado Java pois é a linguagem que quero me especializar, porém, também tenho feito cursos de Node.js pois é o que estou estudando na faculdade em meu atual período, e estou bastante curioso e interessado :)</p>
+   
+   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  </div>
  
  ##
