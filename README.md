@@ -26,33 +26,85 @@
 
 <br/>
 <div>
-<h2>Tecnologias <img src="https://media.giphy.com/media/6LTJ4inRqlvmxtbLuV/giphy.gif" width="40"/></h2>
+<h2>Tecnologias e Ferramentas <img src="https://media.giphy.com/media/6LTJ4inRqlvmxtbLuV/giphy.gif" width="40"/></h2>
  
  <p>
  <em>
-  Abaixo estão algumas das tecnologias que mais utilizo no dia a dia!
+  Abaixo estão algumas das tecnologias e ferramentas que mais utilizo no dia a dia!
  </em>
  </p>
  
- <p align="left">
-  <img align="center" title="Spring" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" title="Java" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" title="Javascript" alt="Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" title="RabbitMQ" alt="RabbitMQ" height="35" width="35" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg">
-  <img align="center" title="MySQL" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" title="Git" alt="Git" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" title="Gitlab" alt="GitLab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-  <img align="center" title="Github" alt="Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" title="Amazon Web Services (AWS)" alt="Amazon Web Services (AWS)" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" title="Docker" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> 
- </p>
+ <div style="display: flex; align-items: flex-start; align: center">
+<table> 
+ <tr>
+  <td align="center" width="96">
+   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+   <br>Java
+  </td>
+  <td align="center" width="96">
+   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+   <br>JavaScript
+  </td>
+    <td align="center" width="96">
+   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+    <br>MySQL
+  </td>
+    <td align="center" width="96">
+   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+   <br>Docker
+  </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+        <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>API
+    </td>
+ </tr>
+ <tr>
+    <td align="center"  width="96">
+   <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+   <br>Spring
+  </td>
+    <td align="center" width="96">
+   <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="VsCode" />
+   <br>Powershell
+  </td>
+  <td align="center"  width="96">
+   <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Spring" />
+   <br>Eclipse
+  </td>
+  <td align="center"  width="96">
+   <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+   <br>RabbitMQ
+  </td>
+  <td align="center" width="96">
+   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+    <br>VsCode
+  </td>
+      <td align="center" width="96">
+   <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="VsCode" />
+   <br>Gitlab
+  </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+ </tr>
+</table>
+<br><br>
+
+
 </div>
-
-
 
 <br/>
 <div>
- <div>
+ <div style="display: flex; align-items: center; justify-content: center">
   <a href="https://github.com/ronny-souza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronny-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&layout=compact&langs_count=7&theme=dracula"/>
