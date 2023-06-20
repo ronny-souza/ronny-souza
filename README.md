@@ -97,11 +97,9 @@
     </td>
  </tr>
 </table>
-<br>
 
 </div>
 
-<br/>
 <div>
 <h2>Estatísticas <img src="https://media.giphy.com/media/sFawvbjwFzgZdAa7K3/giphy.gif" width="40"/></h2>
  
