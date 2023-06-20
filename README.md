@@ -1,6 +1,6 @@
 <h2>Olá, eu sou Ronyeri Marinho <img src="https://media.giphy.com/media/l2C9j6q7iTi6qSYMmw/giphy.gif" width="40"/></h2>
  
-<img align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
 
 <p>
  <em>
@@ -34,7 +34,7 @@
  </em>
  </p>
  
- <div style="display: flex; align-items: flex-start; align: center">
+ <div>
 <table> 
  <tr>
   <td align="center" width="96">
@@ -97,15 +97,31 @@
     </td>
  </tr>
 </table>
-<br><br>
-
+<br>
 
 </div>
 
 <br/>
 <div>
- <div style="display: flex; align-items: center; justify-content: center">
-  <a href="https://github.com/ronny-souza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronny-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&layout=compact&langs_count=7&theme=dracula"/>
+<h2>Estatísticas <img src="https://media.giphy.com/media/sFawvbjwFzgZdAa7K3/giphy.gif" width="40"/></h2>
+ 
+ <p>
+ <em>
+  Abaixo estão algumas estatísticas das minhas contribuições e projetos.
+ </em>
+ </p>
+
+<div>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronny-souza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronny-souza&theme=tokyonight&hide_border=true"/>
 </div>
+
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronny-souza&theme=tokyonight&margin-w=10&margin-h=15&row=1" alt="ronny-souza" /></a> </p>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronny-souza&bg_color=22272e&color=ff6600&line=ff6600&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
