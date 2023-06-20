@@ -107,18 +107,16 @@
  
  <p>
  <em>
-  Abaixo estão algumas estatísticas das minhas contribuições e projetos.
+  Abaixo estão algumas estatísticas das minhas contribuições.
  </em>
  </p>
 
-<div>
- <div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
-  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=ronny-souza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=ronny-souza&theme=tokyonight&hide_border=true"/>
-</div>
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=ronny-souza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ronny-souza&theme=tokyonight&hide_border=true"/>  
 
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronny-souza&theme=tokyonight&margin-w=10&margin-h=15&row=1" alt="ronny-souza" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronny-souza&theme=tokyonight&margin-w=10&margin-h=15&row=1" alt="ronny-souza" /></a> </p> -->
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ronny-souza&bg_color=22272e&color=ff6600&line=ff6600&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
