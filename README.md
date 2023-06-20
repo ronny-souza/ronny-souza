@@ -1,6 +1,6 @@
 <h2>Olá, eu sou Ronyeri Marinho <img src="https://media.giphy.com/media/l2C9j6q7iTi6qSYMmw/giphy.gif" width="40"/></h2>
  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&theme=tokyonight&show_icons=true&hide_border=true"/>
 
 <p>
  <em>
@@ -113,8 +113,8 @@
 
 <div>
  <div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronny-souza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronny-souza&theme=tokyonight&hide_border=true"/>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=ronny-souza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=ronny-souza&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
