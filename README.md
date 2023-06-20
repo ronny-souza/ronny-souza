@@ -112,7 +112,7 @@
  </p>
 
 <div>
- <div>
+ <div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=ronny-souza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronny-souza&theme=tokyonight&hide_border=true"/>
 </div>
