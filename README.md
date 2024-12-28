@@ -4,7 +4,7 @@
 
 <p>
  <em>
-  Desenvolvedor de Software Pleno na <a href="https://ustore.com.br/">Ustore</a> atuando na manutenção e implementação de novas funcionalidades em uma plataforma multicloud com as nuvens AWS, Azure, Google Cloud, Oracle, Hyper-V e outras.
+  Desenvolvedor de Software Sênior na Claro Brasil/Ustore atuando na manutenção e implementação de novas funcionalidades em uma plataforma multicloud com as nuvens AWS, Azure, Google Cloud, Oracle, Hyper-V e outras.
  </em>
 </p>
 
