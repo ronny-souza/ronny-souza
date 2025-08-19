@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronny-souza&layout=donut&theme=tokyonight&hide_border=true"/>
 <p>
- Senior software developer at Claro Brasil and Java/Spring Ecosystem instructor at Senai/SC.
+ Software developer at Claro Brasil and Java/Spring Ecosystem instructor at Senai/SC.
 </p>
 
 <p>
